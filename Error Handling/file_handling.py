@@ -15,4 +15,4 @@ try:
         data = file.readline()
         print(data)
 except Exception as e:
-    print("ERROR :", e)
+    print("ERROR:", e)
